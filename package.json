@@ -28,7 +28,10 @@
         "cli"
     ],
     "license": "MIT",
-    "repository": "mjeightyfive/chunkify-array",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/mjeightyfive/chunkify-array.git"
+    },
     "author": {
         "name": "mjeightyfive",
         "email": "mjeightyfive@gmail.com",
