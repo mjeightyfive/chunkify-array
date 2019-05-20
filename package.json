@@ -1,6 +1,6 @@
 {
     "name": "@mjeightyfive/chunkify-array",
-    "version": "0.0.1",
+    "version": "1.0.1",
     "description": "Divide an array into equally sized chunks with the remainder in the last chunk",
     "bin": {
         "chunkify-array": "./cli.js"
