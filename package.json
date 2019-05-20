@@ -1,0 +1,37 @@
+{
+    "name": "@mjeightyfive/chunkify-array",
+    "version": "0.0.1",
+    "description": "Divide an array into equally sized chunks with the remainder in the last chunk",
+    "bin": {
+        "chunkify-array": "./cli.js"
+    },
+    "scripts": {
+        "test": "jest"
+    },
+    "dependencies": {
+        "meow": "5.0.0"
+    },
+    "devDependencies": {
+        "@mjeightyfive/eslint-config": "0.0.9",
+        "babel-eslint": "10.0.1",
+        "jest": "24.8.0"
+    },
+    "engines": {
+        "node": ">=8"
+    },
+    "files": [
+        "index.js",
+        "cli.js"
+    ],
+    "keywords": [
+        "cli-app",
+        "cli"
+    ],
+    "license": "MIT",
+    "repository": "mjeightyfive/chunkify-array",
+    "author": {
+        "name": "mjeightyfive",
+        "email": "mjeightyfive@gmail.com",
+        "url": "mje.fi"
+    }
+}
